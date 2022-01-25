@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-boot-amqp
+  rabbitmq:
+    host: 120.24.200.204
+    port: 5672
+    username: xxxxx
+    password: xxxxxx
